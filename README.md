@@ -10,4 +10,4 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
  - Exercise 2: FLUX.1-dev by Black Forest Labs
     - [FLUX.1-dev model card](https://huggingface.co/black-forest-labs/FLUX.1-dev)
     - [Online interface](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) (in HuggingFace Spaces)
- - [Colab notebook 1] - Example HuggingFace model (for sentiment analysis) on Colab using Gradio
+ - [Colab notebook 1](https://colab.research.google.com/drive/1NAh5OBwutWfFSnW47ANjT0zNdSRLaJ1F?usp=sharing) - Example HuggingFace model (for sentiment analysis) on Colab using Gradio
