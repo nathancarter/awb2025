@@ -12,3 +12,4 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
     - [Online interface](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) (in HuggingFace Spaces)
  - [Colab notebook 1](https://colab.research.google.com/drive/1NAh5OBwutWfFSnW47ANjT0zNdSRLaJ1F?usp=sharing) - Example HuggingFace model (for sentiment analysis) on Colab using Gradio
  - [Colab notebook 2](https://colab.research.google.com/drive/1qpmS-QZEnSdGtYw5ATWIctD08j-ERNq7?usp=sharing) - Example HuggingFace model (for text generation) on Colab using transformers
+    - Example of using TinyLlama-1.1B to output [JSON data into a pandas dataframe](https://colab.research.google.com/drive/1IDQVnBAE21uyH6Nhn8REku3Ir0Tukadh?usp=sharing)
