@@ -28,7 +28,7 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
     - One example: [Open LLM Leaderboard on HuggingFace Spaces](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
     - One collection: [Clémentine Fourrier's collection of leaderboards](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce) (a HuggingFace staff member)
  - Exercise: How can we use [the hexgrad/Kokoro-82M text-to-speech model](https://huggingface.co/hexgrad/Kokoro-82M) from Python?
-    - One example solution to the exercise is [here on Google Colab](https://colab.research.google.com/drive/1YEJ_eEUHcNFjWTLqDjyzqo_lejvUQ-MU?usp=sharing).
+    - [Colab notebook 3](https://colab.research.google.com/drive/1YEJ_eEUHcNFjWTLqDjyzqo_lejvUQ-MU?usp=sharing) - solution to the above exercise
  - Calling big models through their APIs
     - [Prompt Engineering for Developers Course on deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by Isa Fulford and Andrew Ng
     - [Where to get a Google Gemini API Key](https://aistudio.google.com/app/apikey) - on Google AI Studio
