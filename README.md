@@ -24,3 +24,4 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
  - Links to high-end hardware mentioned in the talk
     - [NVIDIA DGX Station](https://www.nvidia.com/en-us/products/workstations/dgx-station/)
     - [Apple Mac Studio M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
+ - One example LLM leaderboard: [Open LLM Leaderboard on HuggingFace Spaces](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
