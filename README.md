@@ -33,3 +33,4 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
     - [Prompt Engineering for Developers Course on deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by Isa Fulford and Andrew Ng
     - [Where to get a Google Gemini API Key](https://aistudio.google.com/app/apikey) - on Google AI Studio
     - [Colab notebooks 4](https://colab.research.google.com/drive/1EwJPQuykraXSXU6XSR3u2AAN5XOh3PQX?usp=sharing) - Example of calling the Gemini API (requires an API key, see above)
+ - [Colab notebook 5](https://colab.research.google.com/drive/1nBY6vrU4hga2mcXlLynLkdHPLTDYUnTr?usp=sharing) - Example of calling an LLM in a loop for feature engineering
