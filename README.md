@@ -10,9 +10,9 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
  - Exercise 2: FLUX.1-dev by Black Forest Labs
     - [FLUX.1-dev model card](https://huggingface.co/black-forest-labs/FLUX.1-dev)
     - [Online interface](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev) (in HuggingFace Spaces)
- - [Colab notebook 1](https://colab.research.google.com/drive/1NAh5OBwutWfFSnW47ANjT0zNdSRLaJ1F?usp=sharing) - Example HuggingFace model (for sentiment analysis) on Colab using Gradio
- - [Colab notebook 2](https://colab.research.google.com/drive/1nBY6vrU4hga2mcXlLynLkdHPLTDYUnTr?usp=sharing) - Example of calling an LLM in a loop for feature engineering
- - [Colab notebook 3](https://colab.research.google.com/drive/1qpmS-QZEnSdGtYw5ATWIctD08j-ERNq7?usp=sharing) - Example HuggingFace model (for text generation) on Colab using transformers
+ - [Colab notebook 1](https://colab.research.google.com/drive/1yIQfGr0T6kL3bEZ7tWTGNMKboLGvpLtm?usp=sharing) - Example HuggingFace model (for sentiment analysis) on Colab using Gradio
+ - [Colab notebook 2](https://colab.research.google.com/drive/1S2RyyNRR_7lJGv8i_aRWrbVMl86G8Deo?usp=sharing) - Example of calling an LLM in a loop for feature engineering
+ - [Colab notebook 3](https://colab.research.google.com/drive/1V1wRIb2cSqsWIzX1_auAYr3hFO5nAie2?usp=sharing) - Example HuggingFace model (for text generation) on Colab using transformers
     - Experiment about what TinyLlama 1.1B knows: [Share your results at this Padlet](https://bentleyu.padlet.org/ncarter80/what-does-tinyllama-1-1b-know-7bw117qecj9f8u04)
     - Example of using TinyLlama-1.1B to output [JSON data into a pandas dataframe](https://colab.research.google.com/drive/1IDQVnBAE21uyH6Nhn8REku3Ir0Tukadh?usp=sharing)
  - Example models of various sizes
@@ -29,8 +29,8 @@ This repository contains materials for the AI workshop I delivered at the 2025 A
     - One example: [Open LLM Leaderboard on HuggingFace Spaces](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/)
     - One collection: [Clémentine Fourrier's collection of leaderboards](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce) (a HuggingFace staff member)
  - Exercise: How can we use [the hexgrad/Kokoro-82M text-to-speech model](https://huggingface.co/hexgrad/Kokoro-82M) from Python?
-    - [Colab notebook 4](https://colab.research.google.com/drive/1YEJ_eEUHcNFjWTLqDjyzqo_lejvUQ-MU?usp=sharing) - solution to the above exercise
+    - [Colab notebook 4](https://colab.research.google.com/drive/15BftVIs9GS4n_glHA2jI16jJabxu3AgA?usp=sharing) - solution to the above exercise
  - Calling big models through their APIs
     - [Prompt Engineering for Developers Course on deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by Isa Fulford and Andrew Ng
     - [Where to get a Google Gemini API Key](https://aistudio.google.com/app/apikey) - on Google AI Studio
-    - [Colab notebooks 5](https://colab.research.google.com/drive/1EwJPQuykraXSXU6XSR3u2AAN5XOh3PQX?usp=sharing) - Example of calling the Gemini API (requires an API key, see above)
+    - [Colab notebooks 5](https://colab.research.google.com/drive/1m_w1X2_ePX6sfgaDcL1omNrrIdybfaZL?usp=sharing) - Example of calling the Gemini API (requires an API key, see above)
