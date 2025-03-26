@@ -19,6 +19,7 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 ### Colab notebook 2: Question answering
 
  - [Calling a Question-Answering model in a loop for feature engineering](https://colab.research.google.com/drive/1S2RyyNRR_7lJGv8i_aRWrbVMl86G8Deo?usp=sharing)
+ - [Model card for the model used in this example](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad)
 
 ## :bulb: Big Idea #2: Model + Interface = Product
 
