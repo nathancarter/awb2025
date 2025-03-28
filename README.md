@@ -2,6 +2,8 @@
 
 This repository contains materials for the AI workshop [Nathan Carter](https://faculty.bentley.edu/profile/ncarter) delivered at the 2025 [Analytics Without Borders conference](https://www.bentley.edu/centers/cads/dart/analytics-without-borders) at [Bentley University](http://www.bentley.edu).
 
+&nbsp;
+
 ## :walking: Journey 1
 
 ### Exercise 1: Model categories
@@ -23,6 +25,8 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 
 ## :sunrise_over_mountains: Vista 1: AI is just functions.
 
+&nbsp;
+
 ## :walking: Journey 2
 
 ### Exercise 2: An inference endpoint for image generation
@@ -32,6 +36,8 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - Create any image.
 
 ## :sunrise_over_mountains: Vista 2: Model + Interface = Product
+
+&nbsp;
 
 ## :walking: Journey 3
 
@@ -52,6 +58,8 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 
 ## :sunrise_over_mountains: Vista 3: Training data matters
 
+&nbsp;
+
 ## :arrow_right_hook: Digression...
 
 ### Exercise 3: How can we use Kokoro from Python?
@@ -64,6 +72,8 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 ### Colab notebook 4: Kokoro
 
  - [This notebook is the solution to the exercise given above.](https://colab.research.google.com/drive/15BftVIs9GS4n_glHA2jI16jJabxu3AgA?usp=sharing)
+
+&nbsp;
 
 ## :walking: Journey 4
 
