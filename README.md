@@ -46,10 +46,12 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - [A small chatbot loaded into Colab answering a freeform question](https://colab.research.google.com/drive/1V1wRIb2cSqsWIzX1_auAYr3hFO5nAie2?usp=sharing)
  - Warning: This code will probably execute quite slowly.
 
+<!--
 ### Experiment: What can a small chatbot do?
 
  - Use Colab notebook 3 to ask a question to TinyLlama 1.1B Chat v1.0.
  - [Use this Padlet](https://bentleyu.padlet.org/ncarter80/what-does-tinyllama-1-1b-know-7bw117qecj9f8u04) to share whether it knew the answer to your question not.
+-->
 
 ### Colab notebook 3 Revisited: JSON generation
 
@@ -80,6 +82,7 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 ### Example models of various sizes
 
  - GPT-4 has an estimated 1.76T parameters, but the model is not freely available (see [Wikipedia](https://en.wikipedia.org/wiki/GPT-4))
+ - DeepSeek-r1 has 685B parameters, and [the model is freely available here](https://huggingface.co/deepseek-ai/DeepSeek-R1)
  - GPT-3 has 175B parameters, but the model is not freely available (see [Wikipedia](https://en.wikipedia.org/wiki/GPT-3))
  - Good LLMs in 2025 typically have 70B parameter variants, such as: [Meta's Llama 3.3 (70B Instruct variant, on HuggingFace)](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)
  - Many common LLMs have 7B parameter variants, such as: [trillionlabs/Trillion-7B-preview on HuggingFace](https://huggingface.co/trillionlabs/Trillion-7B-preview)
