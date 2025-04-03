@@ -16,6 +16,10 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
 
 ### Colab notebook 1: Sentiment analysis
 
+ - Essentials for using Google Colab:
+    - To run a notebook: Runtime menu > Run all (then be patient)
+    - To save your edits: File menu > Save a copy in Drive
+    - To use GPUs: Runtime menu > Change runtime type
  - [A sentiment analysis displayed using Gradio](https://colab.research.google.com/drive/1yIQfGr0T6kL3bEZ7tWTGNMKboLGvpLtm?usp=sharing)
 
 ### Colab notebook 2: Question answering
@@ -23,7 +27,7 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - [Calling a Question-Answering model in a loop for feature engineering](https://colab.research.google.com/drive/1S2RyyNRR_7lJGv8i_aRWrbVMl86G8Deo?usp=sharing)
  - [Model card for the model used in this example](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad)
 
-## :sunrise_over_mountains: Vista 1: AI is just functions.
+## :sunrise_over_mountains: View 1: AI is just functions.
 
 &nbsp;
 
@@ -35,7 +39,7 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - Open [the first "space" for interacting with it](https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev).
  - Create any image.
 
-## :sunrise_over_mountains: Vista 2: Model + Interface = Product
+## :sunrise_over_mountains: View 2: Model + Interface = Product
 
 &nbsp;
 
@@ -58,7 +62,7 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - [The same small chatbot from above, now answering a structured question](https://colab.research.google.com/drive/1lOgtBLx_U7T37T0-wZrZNteQI4LA-_Q3?usp=sharing)
  - Warning: This code will probably execute quite slowly.
 
-## :sunrise_over_mountains: Vista 3: Training data matters
+## :sunrise_over_mountains: View 3: Training data matters
 
 &nbsp;
 
@@ -105,4 +109,4 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - [Notebook demonstrating how to call the Gemini API](https://colab.research.google.com/drive/1m_w1X2_ePX6sfgaDcL1omNrrIdybfaZL?usp=sharing)
  - [Prompt Engineering for Developers Course on deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), by Isa Fulford and Andrew Ng, teaches how to use OpenAI's API and how to prompt smartly
 
-## :sunrise_over_mountains: Vista 4: There is not one right answer.
+## :sunrise_over_mountains: View 4: There is not one right answer.
