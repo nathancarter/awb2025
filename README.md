@@ -50,12 +50,11 @@ You can learn about new model categories at [HuggingFace > Docs > Tasks](https:/
  - [A small chatbot loaded into Colab answering a freeform question](https://colab.research.google.com/drive/1V1wRIb2cSqsWIzX1_auAYr3hFO5nAie2?usp=sharing)
  - Warning: This code will probably execute quite slowly.
 
-<!--
 ### Experiment: What can a small chatbot do?
 
+ - (We may or may not do this experiment, depending on time constraints.)
  - Use Colab notebook 3 to ask a question to TinyLlama 1.1B Chat v1.0.
  - [Use this Padlet](https://bentleyu.padlet.org/ncarter80/what-does-tinyllama-1-1b-know-7bw117qecj9f8u04) to share whether it knew the answer to your question not.
--->
 
 ### Colab notebook 3 Revisited: JSON generation
 
